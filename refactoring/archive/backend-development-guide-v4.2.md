@@ -19,7 +19,7 @@
 ### 2.1 备份代码
 
 ```bash
-export BACKUP_DIR=/home/wwwroot/w7panel-dev/backup_repo
+export BACKUP_DIR=/home/wwwroot/w7panel-dev
 mkdir -p $BACKUP_DIR
 cp -r /home/wwwroot/w7panel-dev/w7panel $BACKUP_DIR/w7panel_backend_$(date +%Y%m%d%H%M%S)
 echo "备份完成: $BACKUP_DIR/w7panel_backend_$(date +%Y%m%d%H%M%S)"

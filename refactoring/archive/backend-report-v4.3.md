@@ -88,6 +88,4 @@ managedFields: ⚠️ Present (not filtered - see known issues)
 
 ## 6. 备份
 
-修改前代码已备份到：
-- Backend: `/backup_repo/w7panel_backend_20260221065524`
-- Frontend: `/backup_repo/w7panel_frontend_20260221070130`
+修改前代码已备份（历史记录）
